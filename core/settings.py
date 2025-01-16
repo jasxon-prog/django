@@ -31,7 +31,7 @@ DEBUG = bool(int(os.getenv('DEBUG')))
 
 ALLOWED_HOSTS = ['*']
 
-print(SECRET_KEY, DEBUG)
+
 
 # Application definition
 
